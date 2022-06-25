@@ -1,0 +1,730 @@
+@media (min-width:320px) and (max-width:576px) {
+
+    .booking_tab .table td,
+    .table th {
+        padding: 8px 0 16px 0;
+        display: block;
+    }
+
+    .product_done_content .product_done_heading h3 {
+        font-size: 28px;
+        padding-bottom: 10px;
+    }
+
+    .product_done_content .restaurant_review_content h2 {
+        font-size: 19px;
+    }
+
+    .booking_tab .nav-item a {
+        padding: 12px 14px;
+    }
+.progress_bar_wrap h3 {
+	font-size: 20px;
+	line-height: 30px;
+}
+    
+    .restaurant_review_star .rt1 {
+        margin-left: 2px;
+        display: block;
+    }
+
+    .restaurant_review_star .rb1 {
+        margin-left: 10px;
+        float: left;
+    }
+
+    .restaurant_review_content h2 {
+        font-size: 17px;
+    }
+
+   .all-comment-wrap {
+	display: block;
+	padding-right: 0;
+}
+
+    .comments_profile_name {
+        display: block;
+
+    }
+
+    .comment-thumb {
+        width: 30%;
+        margin-bottom: 12px;
+    }
+
+    .comment_overview_rating ul {
+        display: block;
+    }
+
+    .comment_overview_rating ul li {
+        padding-bottom: 10px;
+    }
+
+    .comment_overview_rating ul li::after {
+        display: none;
+    }
+
+    .restaurant_details_header {
+        padding-left: 10px;
+    }
+
+    .restaurant_table .table td,
+    .table th {
+        width: 100%;
+        font-size: 14px;
+        display: block;
+    }
+
+    .table_navs ul {
+        display: block;
+    }
+
+    .portfolio_menu ul li {
+        margin-right: 18px;
+    }
+
+    .single_progress_wrap h4 {
+        font-size: 14px;
+    }
+
+    .item_short_form {
+        width: 100%;
+        margin-bottom: 18px;
+        bottom: -33%;
+    }
+
+    #comment_rv {
+        margin-top: 45%;
+    }
+
+    .table_navs ul li {
+        margin-bottom: 10px;
+    }
+
+    .avilable_bl {
+        width: 88%;
+    }
+
+    .payment_method_table tr td {
+        display: block;
+    }
+
+    .saveButton {
+        text-align: left !important;
+        display: flex;
+    }
+
+    .saveButton .btn1 {
+        padding: 6px 26px;
+    }
+
+    .payment_method_table table {
+        width: 100%;
+    }
+
+    .text-right.item-edit {
+        display: flex;
+    }
+
+    .card_item_wrap {
+        padding: 30px 0;
+    }
+
+    .payment_method_table th {
+        display: block;
+        text-align: left !important;
+    }
+
+    .booking_aside {
+        margin-top: 0;
+        padding: 0;
+        padding-bottom: 30px;
+    }
+
+    .product_done_wrap {
+        padding: 35px 0;
+    }
+
+    .restaurant_order ul {
+        display: block;
+    }
+
+    .restaurant_order ul li {
+        margin-bottom: 10px;
+    }
+
+    .details_coupon_content {
+        padding: 15px;
+    }
+
+    .details_coupon_content h3 {
+        font-size: 24px;
+        line-height: 38px;
+    }
+
+    .offerin_date {
+        display: block;
+    }
+
+    .item_list li {
+        padding: 0 0px 13px 16px;
+    }
+
+    .reservation_form h3 {
+        font-size: 25px;
+        padding: 24px 0 18px 0;
+    }
+
+    .reservation_form form {
+        padding: 20px !important;
+    }
+
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (max-width: 991px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .modal-content {
+        width: 100%;
+    }
+
+    .modal .nav-tabs .nav-link {
+        font-size: 12px;
+        padding: 11px 30px;
+    }
+
+    .logo {
+        width: 35%;
+    }
+
+    .topbar_wrap .signUp {
+        font-size: 14px;
+        padding: 2px 10px;
+    }
+
+    .primary_menu {
+        display: none;
+    }
+
+    #sidebarmenu {
+        display: block;
+        color: #f8730a;
+    }
+
+    .product_form input {
+        margin-bottom: 10px;
+    }
+
+    .product_heading h5 {
+        font-size: 17px;
+    }
+
+    .product_wrap {
+        padding: 0 12px;
+        margin-bottom: 20px;
+    }
+
+    .nice-select {
+        justify-content: start;
+        padding: 13px 50px 13px 10px;
+        margin-bottom: 10px;
+    }
+
+    .resturant_product_heading h2 {
+        font-size: 26px;
+    }
+
+    .product_logo_item {
+        margin-top: -15%;
+    }
+
+    .product_item_content {
+        padding-top: 18% !important;
+    }
+
+    .offer_product {
+        margin-bottom: 20px;
+    }
+
+    .subscribe_bg {
+        padding: 30px 20px;
+    }
+
+    .subscribe_wrap {
+        display: block;
+    }
+
+    .subscribe_heading h2 {
+        font-size: 30px;
+    }
+
+    .subscribe_heading {
+        margin-bottom: 11px;
+    }
+
+    .subscribe_form button.btn1 {
+        position: inherit;
+        width: auto;
+        margin: 0 auto;
+        display: inherit;
+        margin-top: 16px;
+    }
+
+    .footer_about.pl_5 {
+        padding-left: 0;
+    }
+
+    .footer_about h5 {
+        padding-bottom: 0px;
+    }
+
+    .bt_top::before {
+        display: none;
+    }
+
+    .footer_about {
+        padding-top: 12px;
+        padding-bottom: 15px;
+    }
+
+    .reservation_area {
+        margin-top: 0;
+    }
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 350px) and (max-width:450px) {
+    .product_logo_item {
+        margin-top: -13%;
+    }
+    #comment_rv {
+	margin-top: 30%;
+}
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 450px) and (max-width:576px) {
+    .product_logo_item {
+        margin-top: -10%;
+    }
+#comment_rv {
+	margin-top: 30%;
+}
+    .restaurant_order ul {
+        display: flex;
+    }
+
+    .restaurant_order ul li {
+        margin-right: 10px;
+    }
+
+    .modal .nav-tabs .nav-link {
+        font-size: 20px;
+    }
+
+    .product_item_content {
+        padding-top: 15% !important;
+    }
+
+
+}
+
+
+@media (min-width:576px) and (max-width:768px) {
+    .banner_single_item {
+        margin-bottom: 10px;
+    }
+
+    .booking_tab .nav-item a {
+        padding: 12px 9px;
+    }
+.progress_bar_wrap h3 {
+	font-size: 19px;
+}
+    .single_progress_wrap h4 {
+	font-size: 16px;
+}
+    #comment_rv {
+	margin-top: 26%;
+}
+    .item_product_name h5 {
+	font-size: 16px;
+}
+ .booking_aside {
+	margin-top: 0;
+	padding-bottom: 20px;
+	padding-left: 0;
+}
+    .product_done_wrap {
+	padding-bottom: 10px;
+}
+.comment-content {
+	margin-left: 0;
+	margin-top: 20px;
+	width: 100%;
+}
+    .all-comment-wrap {
+	display: block;
+}
+    .comment-thumb {
+	width: 15%;
+}
+    .comment_overview_rating ul li {
+	margin-right: 14px;
+	font-size: 12px;
+}
+    .comment_overview_rating ul li::after {
+	display: none;
+}
+    .comment_overview_rating .rating {
+	margin-right: 8px;
+}
+    .offerin_date {
+        display: block;
+    }
+
+    .payment_method_table table {
+        width: 100%;
+    }
+
+    .product_done_content .product_logo_item {
+        margin-top: 0% !important;
+    }
+
+    .product_done_content .restaurant_review_content h2 {
+        font-size: 25px;
+    }
+
+    .product_done_content .product_done_heading h3 {
+        text-align: center;
+    }
+
+    .modal .nav-tabs .nav-link {
+        font-size: 20px;
+    }
+
+    .details_coupon_content h3 {
+        font-size: 25px;
+    }
+
+    .item_list li {
+        padding: 0 0px 20px 20px;
+    }
+
+    .product_logo_item {
+        margin-top: -20% !important;
+    }
+
+    .product_item_content {
+        padding-top: 22% !important;
+    }
+
+    .product_offer_content h5 {
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+
+    .product_logo_item {
+        margin-top: -20%;
+    }
+
+    .subscribe_section {
+        margin-top: 40px;
+    }
+
+    .subscribe_heading {
+        text-align: center;
+    }
+
+    .add_product img {
+        width: 100%;
+    }
+
+    .nice-select {
+        padding: 13px 30px 13px 9px;
+    }
+
+}
+
+/*large devices (large desktops, 1200px and up)*/
+@media (min-width: 768px) and (max-width: 991px) {
+    .resturant_product .col-md-4 {}
+
+    .product_wrap {
+        padding: 0 7px;
+    }
+.comment_overview_rating ul li {
+	margin-right: 16px;
+}
+    .product_done_wrap {
+	padding-bottom: 10px;
+}
+    .booking_aside {
+	margin-top: 0;
+	padding: 0 30px;
+	padding-left: 0;
+	padding-bottom: 20px;
+}
+    .item_product_name h5 {
+        font-size: 15px;
+    }
+
+    .product_done_content .product_done_heading h3 {
+        text-align: center;
+    }
+
+    .modal .nav-tabs .nav-link {
+        font-size: 20px;
+    }
+
+    .resturant_product .col-md-4 {
+        padding: 0;
+    }
+
+    .product_logo_item {
+        margin-top: -21%;
+    }
+
+    .product_item_content {
+        padding-top: 25% !important;
+    }
+
+    .nav-tabs .nav-link {
+        font-size: 15px;
+        padding: 10px 17px;
+    }
+
+    .product_add .col-md-4 {
+        padding: 0 0px;
+    }
+
+    .subscribe_form button.btn1 {
+        position: absolute;
+    }
+
+    .subscribe_bg {
+        padding: 30px 50px;
+    }
+
+    .subscribe_heading {
+        margin-bottom: 20px;
+        text-align: center;
+    }
+
+    .pr_one .product_logo_item {
+        margin-top: -13%;
+    }
+
+    .pr_one .product_item_content {
+        padding-top: 20% !important;
+    }
+
+    .add_product img {
+        width: 100%;
+    }
+
+    .product_add .mt-20 {
+        margin-top: 0;
+    }
+
+    .footer_about ul li a {
+        font-size: 14px;
+    }
+
+    .booking_aside_content p {
+        padding-right: 0;
+    }
+
+    .product_form input {
+        padding: 13px 12px;
+    }
+
+
+
+
+
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 991px) and (max-width: 1200px) {
+    .product_wrap {
+        margin-bottom: 20px;
+    }
+
+    .booking_tab .nav-item a {
+        padding: 12px 16px;
+    }
+
+    .item_product_name h5 {
+        font-size: 16px;
+    }
+
+    .payment_method_table table {
+        width: 100%;
+    }
+.item_short_form {
+	width: 96%;
+	bottom: -39%;
+}
+    .all-comment-wrap {
+	padding: 0 10px 20px 18px;
+}
+    .comment_overview_rating .rating {
+	margin-right: 0px;
+}
+    .comment-thumb {
+	margin-right: 10px;
+}
+    .comment_overview_rating ul li {
+	margin-right: 5px;
+	font-size: 12px;
+}
+    .comment_overview_rating ul li::after {
+    display: none;
+    }
+    .progress_bar_wrap h3 {
+	font-size: 20px;
+}
+    .single_progress_wrap h4 {
+	font-size: 16px;
+}
+    .restaurant_review_content h2 {
+	font-size: 30px;
+}
+    .product_done_content .restaurant_review_content h2 {
+        font-size: 34px;
+    }
+
+    .product_done_content .product_done_heading h3 {
+        padding-bottom: 10px;
+    }
+
+    .booking_aside_content p {
+        padding-right: 0;
+    }
+
+    input[type="checkbox"] + label {
+        font-size: 13px;
+        margin-left: 3px;
+    }
+
+    .nice-select {
+        font-size: 12px;
+        justify-content: start;
+        padding: 13px 29px 13px 9px;
+    }
+
+    .details_coupon_content h3 {
+        font-size: 26px;
+    }
+
+    .details_coupon_content {
+        padding: 12px;
+    }
+
+    .item_list li {
+        padding: 0 10px 10px 20px;
+    }
+
+    .reservation_form h3 {
+        font-size: 30px;
+        padding: 20px 0 18px 0;
+    }
+
+    .product_form input {
+        font-size: 13px;
+        padding: 13px 17px;
+    }
+
+    .product_form .btn1 {
+        padding: 11px 35px;
+    }
+
+    .product_logo_item {
+        margin-top: -15%;
+    }
+
+    .product_add .nav-tabs .nav-link {
+        font-size: 15px;
+        padding: 10px 7px;
+    }
+
+    .product_item_content {
+        padding-top: 22% !important;
+    }
+
+    .product_offer_content h5 {
+        font-size: 16px;
+        padding-bottom: 7px;
+    }
+
+    .product_offer_content {
+        padding: 20px 10px 29px 10px;
+    }
+
+    .banner_single_item {
+        margin-bottom: 20px;
+    }
+
+    .banner_single_item1 img {
+        height: 190px;
+    }
+
+    .subscribe_bg {
+        padding: 46px 50px;
+    }
+
+    .subscribe_form button.btn1 {
+        padding: 7px 18px;
+    }
+
+    .nav-tabs .nav-link {
+        font-size: 14px;
+        padding: 10px 11px;
+    }
+
+    .footer_about ul li a {
+        font-size: 14px;
+    }
+
+    .product_add .mt-20 {
+        margin-top: 0;
+    }
+
+}
+
+/*laptop device*/
+@media (min-width:1200px) and (max-width:1500px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    .nav-tabs .nav-link {
+        font-size: 16px;
+    }
+
+    .subscribe_bg {
+        padding: 46px 90px;
+    }
+
+.comment_overview_rating ul li {
+	margin-right: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+}

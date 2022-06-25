@@ -1,0 +1,22 @@
+::-moz-selection { /* Code for Firefox */
+    color: #ffffff !important;
+    background: #f8730a !important;
+}
+
+::selection {
+    color: #ffffff !important;
+    background: #f8730a !important;
+}
+
+
+.text-custom{
+    color: #f8730a !important;
+}
+
+.text-danger {
+    color: #dc3545 !important;
+}
+
+.website-logo{
+    max-width: 150px;
+}

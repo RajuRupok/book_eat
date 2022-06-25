@@ -1,0 +1,74 @@
+/*
+=========================================
+============< Global CSS >===============
+=========================================
+*/
+.text-danger {
+    color: #dc3545 !important;
+}
+span.required {
+    color: #dc3545 !important;
+}
+
+.swal2-popup.swal2-toast{
+    box-shadow: none !important;
+}
+
+.btn-warning,
+.btn-warning:hover,
+.btn-warning:focus,
+.btn-warning:active,
+.btn-warning:not(:disabled):not(.disabled):active,
+.btn-warning:not(:disabled):not(.disabled).active,
+.show > .btn-warning.dropdown-toggle {
+    color: #fff;
+    background-color: #f8730a;
+    border-color: #f8730a;
+    outline: none !important;
+    box-shadow: none !important;
+}
+.text-warning,
+.text-warning:hover,
+a.text-warning:hover,
+a.text-warning:focus{
+    color: #f8730a !important;
+}
+.checkbox.checkbox-warning input[type=checkbox]:checked + label:before{
+    color: #f8730a !important;
+}
+.form-control:focus {
+    border-color: #f8730a;
+}
+
+
+
+.nav-item.active a .title {
+    font-weight: 700;
+    /* color: #333333; */
+    color: #ffffff;
+    transition: 0.3s all ease-in-out;
+}
+
+.nav-item.active a:hover .title {
+    font-weight: 700;
+    color: #ffffff;
+    transition: 0.3s all ease-in-out;
+}
+.nav-item.active a .icon-holder {
+    font-weight: 700;
+    color: #ffffff;
+}
+.side-nav .side-nav-inner .side-nav-menu li a:hover .icon-holder,
+.side-nav .side-nav-inner .side-nav-menu li a:focus .icon-holder,
+.side-nav .side-nav-inner .side-nav-menu li.dropdown.open > a .icon-holder{
+    color: #ffffff;
+}
+.side-nav-dark .side-nav .side-nav-inner .side-nav-menu li a:hover{
+    color: #ffffff;
+}
+.header .search-input input {
+    background-color: #313644;
+    width: 100%;
+    font-size: 18px;
+    color: #fff;
+}
